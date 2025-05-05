@@ -25,9 +25,9 @@ LinkedIn: [https://www.linkedin.com/in/juliet-njagi-815665240/]
 
 Twitter: [@njagijuliet02]
 
-Email: [Your Email]njagijuliet02@gmail.com
+Email: [njagijuliet02@gmail.com]
 
-Portfolio: [[Your Portfolio Link]](https://bit.ly/4lqabfk)
+Portfolio: [(https://bit.ly/4lqabfk)]
 
 💻 Technologies & Tools
 md
