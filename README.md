@@ -9,9 +9,9 @@ Frontend Developer | ALX Learner | Passionate About Tech for Social Change
 
 💡 About Me I’m currently mastering frontend development through ALX’s program, focusing on HTML, CSS, and JavaScript. My passion for tech stems from my mission to build solutions that empower women and drive social change.
 
-🌍 My Vision My goal is to become a full-stack developer, specializing in web and mobile development to create impactful and accessible digital solutions.
+🌍 My Vision My goal is to become a full-stack developer, specialising in web and mobile development to create impactful and accessible digital solutions.
 
-🔨 Projects I’m Working On
+🔨 Projects I’ve Worked on
 
 FutureFemTech – AI-powered education solution for gender equity
 
